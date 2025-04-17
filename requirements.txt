@@ -1,5 +1,6 @@
 
 nselib
 pandas
+pandas_market_calendars
 
 # include other required packages
