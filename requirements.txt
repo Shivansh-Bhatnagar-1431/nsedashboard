@@ -1,5 +1,5 @@
 streamlit
 nselib
 pandas
-pandas_market_calendar
+
 # include other required packages
